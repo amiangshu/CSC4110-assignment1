@@ -2,7 +2,7 @@
 //Author: Amiangshu Bosu <amiangshu.bosu@wayne.edu>
   
 // Header file for input output functions 
-//Adding comments
+//Adding comments for conflict
 #include<iostream>  
   
 using namespace std; 
