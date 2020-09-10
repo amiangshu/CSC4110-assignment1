@@ -1,3 +1,5 @@
 *.class
 *.java
 bin/*
+*.exe
+*.msi
